@@ -1,0 +1,16 @@
+{
+  "name": "xyharadb",
+  "version": "1.0.0",
+  "description": "Library database custom XyharaDB dengan query bahasa Indonesia",
+  "type": "module",
+  "exports": "./home/XyharaDB.js",
+  "main": "./home/XyharaDB.js",
+  "scripts": {
+    "start": "node console.js"
+  },
+  "author": "KHara Studio",
+  "license": "XyharaDB License",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
