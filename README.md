@@ -14,7 +14,7 @@
 <h2>Fitur</h2>
 <ul>
   <li>Database berbasis file (<code>.xydb</code>)</li>
-  <li>Bahasa query sendiri: <b>XQL (Xyhara Query Language)</b></li>
+  <li>Bahasa query sendiri: <b>XQL (Xeon Query Language)</b></li>
   <li>Ringan & tanpa dependency eksternal</li>
   <li>Mode library & console interaktif</li>
   <li>Cocok untuk proyek kecil & pembelajaran</li>
