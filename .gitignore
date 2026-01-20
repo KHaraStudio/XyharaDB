@@ -1,3 +1,9 @@
+# runtime
+XyharaDB.log
+testConsole.js
+
+# node
 node_modules/
-XyharaDB.xydb
+
+# system
 .DS_Store
