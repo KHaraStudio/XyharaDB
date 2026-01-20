@@ -1,0 +1,2 @@
+{"time":"2026-01-19T08:59:22.995Z","action":"INSERT","table":"users","id":"1","data":{"name":"KHara","age":17}}
+{"time":"2026-01-19T09:01:59.978Z","action":"UPDATE","table":"users","id":"1","set":"age=18"}
